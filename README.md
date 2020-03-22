@@ -1,4 +1,4 @@
-# blackswantechnologies_pytest_bdd
+# blackswantechnologies_pytest bdd
 This repository contains example code for the
 *Behavior-Driven Python with pytest-bdd* for testing site https://blackswantechnologies.ai/
 
